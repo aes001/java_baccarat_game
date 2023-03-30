@@ -5,29 +5,12 @@ public class BaccaratCard extends Card{
         super(r, s);
     }
 
-    public Card.Rank getRank() {
-        return null;
+    @Override
+    public int value() {
+        if (getRank().ordinal() + 1 >= 10) {
+            return 0;
+        }
+        return getRank().ordinal() + 1;
     }
-
-    public Card.Suit getSuit() {
-        return null;
-    }
-
-    public String toString() {
-        return null;
-    }
-
-    public boolean equals(Object other){
-        return false;
-    }
-
-    public int compareTo(Card other){
-        return 0;
-    }
-
-    public int value(){
-        return 0;
-    }
-
 
 }
