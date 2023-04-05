@@ -1,0 +1,16 @@
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :run
+
+Running Baccarat application...
+
+Player: J♠ 7♥ = 7
+Banker: 3♣ J♣ = 3
+Dealing third card to banker...
+Banker: 3♣ J♣ 4♣ = 7
+Tie
+
+BUILD SUCCESSFUL in 996ms
+2 actionable tasks: 1 executed, 1 up-to-date
