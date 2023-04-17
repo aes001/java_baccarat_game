@@ -1,4 +1,3 @@
-// TODO: Implement the BaccaratCard class in this file
 public class BaccaratCard extends Card{
 
     BaccaratCard(Card.Rank r, Card.Suit s) {
