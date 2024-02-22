@@ -1,5 +1,5 @@
 # Java Baccarat Game
-* [Baccarat Application](#baccarat-application)
+A Java implementation of a baccrat game.
 
 ## Baccarat Application
 You can run the application in interactive or non-interactive mode.\
