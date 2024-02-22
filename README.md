@@ -1,7 +1,7 @@
 # Java Baccarat Game
 A Java implementation of a baccrat game.
 
-## Baccarat Application
+## Running the Application
 You can run the application in interactive or non-interactive mode.\
 Non-interactive mode runs the baccarat game automatically until the card stack is empty.\
 Interactive mode allows you to end the game at any round.\
